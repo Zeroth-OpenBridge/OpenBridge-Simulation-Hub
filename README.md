@@ -2,7 +2,7 @@
 
 This repository presents the training and deployment projects for the M3 robot.
 
-Document version: V1.0.0.
+Document version: V1.0.1.
 
 > 🚧 This repository is still under construction, and its contents are not yet complete. For the full version history, see [CHANGELOG.md](./CHANGELOG.md).
 
@@ -316,7 +316,7 @@ robot.apply_action([0.0] * 23)
 
 # Release Notes
 
-V1.0.0: Initial release — 2026.9.9
+V1.0.1: 2026.9.9
 
 # References and Acknowledgements
 
